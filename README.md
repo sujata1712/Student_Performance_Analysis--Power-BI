@@ -38,7 +38,7 @@ The dashboard covers:
 - 🎓 **Subject-wise Scores (Average, Highest, Lowest)**
 - 🔍 **Dynamic Filters** for interactive exploration
 
-![Dashboard Screenshot](student-performance.png)
+![Performance Dashboard](./student%20performance.png)
 
 ---
 

@@ -1,10 +1,8 @@
 # 📊 Student Performance Analysis (Power BI Dashboard)
 
 
-## 📝 Project Description
+## 📝 Project Overview
 This Power BI project analyzes the performance of 1,000 students based on gender, race/ethnicity, parental education, lunch type, and test preparation. Using interactive dashboards, key insights such as overall academic performance, performance gaps, and subject-wise trends are visualized. The goal is to uncover patterns that influence student achievement and provide actionable insights using data visualization and DAX in Power BI.
-
-![Student Performance Dashboard](./student%20performance.png)
 
 --- 
 ## 📌 Objective
@@ -40,6 +38,7 @@ The dashboard covers:
 - 🎓 **Subject-wise Scores (Average, Highest, Lowest)**
 - 🔍 **Dynamic Filters** for interactive exploration
 
+![Student Performance Dashboard](./student%20performance.png)
 
 ---
 
@@ -75,4 +74,4 @@ The dashboard covers:
 ## 📬 Contact
 
 👩‍💻 **Sujata Sinhababu**  
-[LinkedIn](#) 
+[LinkedIn](https://www.linkedin.com/in/sujata-sinhababu-041705s/)
